@@ -8,6 +8,7 @@ import PassWordGenretor from './components/PassWordGenretor.vue';
 import ProgressSteps from './components/ProgressSteps.vue';
 import BadJokes from './components/BadJokes.vue';
 import GithubUserProfiel from './components/GithubUserProfiel.vue';
+import WikiComponent from './components/WikiComponent.vue';
 </script>
 
 <template>
@@ -26,6 +27,8 @@ import GithubUserProfiel from './components/GithubUserProfiel.vue';
 
 <BadJokes/>
 <GithubUserProfiel/>
+
+<wiki-component/>
 
 </template>
 
